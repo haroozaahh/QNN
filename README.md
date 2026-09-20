@@ -28,8 +28,17 @@ real Yahoo finance data, creating:
 
 the graph contains measured wall-clock times from this computer. it is an
 implementation comparison, not a claim of quantum advantage. QAOA is simulated
-with qiskit's statevector backend, so this is not a hardware execution, it is still                                 very much all ran on a classical computer. the script is designed to show the classical                             and quantum outputs in conjunction to one another, with the graph representing
-a clear visual aid of how the run time compares to one another.
+with qiskit's statevector backend, so this is not a hardware execution, it is still very much all 
+ran on a classical computer.the script is designed to show the classical and quantum outputs in conjunction to one another, 
+with the graph representing a clear visual aid of how the run time compares to one another.
+
+
+this project isnt aimed to demonstrate a quantum advantage, if anything,
+demonstrates there is a long way to progress for quantum ML . one could
+run a similar algorithm on IBM's quantum computer simulator for larger
+assets, as when attempted here, the graph tends to crash , generate
+a different image each time.
+
 
 
 
