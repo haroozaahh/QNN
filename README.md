@@ -1,4 +1,4 @@
-# Quantum Portfolio Comparison
+# Comparing Quantum and Classical Methods of Portfolio Optimisation
 
 a small prototype that downloads market data and runs both of these methods side by side:
 
