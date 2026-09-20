@@ -8,7 +8,8 @@ a small prototype that downloads market data and runs both of these methods side
 the objective is to maximise the equation $C(x)=\mu^Tx-\lambda x^T\Sigma x$, where each binary variable
 selects an asset. the classical result is the exact benchmark for the same
 objective. the script measures runtime and compares the resulting portfolios and
-scores visually, and we can visually analyse the modern day comparison of quantum                                  and classical methods for portfolio analysis.
+scores visually, and we can visually analyse the modern day comparison of quantum                     
+and classical methods for portfolio analysis.
 
 ## Run
 
@@ -36,15 +37,10 @@ with the graph representing a clear visual aid of how the run time compares to o
 this project isnt aimed to demonstrate a quantum advantage, if anything,
 demonstrates there is a long way to progress for quantum ML . one could
 run a similar algorithm on IBM's quantum computer simulator for larger
-assets, as when attempted here, the graph tends to crash , generate
+assets, as when attempted here, the graph tends to crash and generate
 a different image each time.
 
 
-this project isnt aimed to demonstrate a quantum advantage, if anything,
-demonstrates there is a long way to progress for quantum ML . one could
-run a similar algorithm on IBM's quantum computer simulator for larger
-assets, as when attempted here, the graph tends to crash , generate
-a different image each time.
 
 
 
