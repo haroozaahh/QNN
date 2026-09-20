@@ -9,6 +9,7 @@ from qiskit import QuantumCircuit
 from qiskit.quantum_info import Statevector
 from qiskit_aer import AerSimulator
 from scipy.optimize import minimize
+import scipy.stats
 
 
 def score(portfolio, returns, covariance):

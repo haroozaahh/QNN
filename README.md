@@ -1,4 +1,4 @@
-# Comparing Quantum and Classical Methods of Portfolio Optimisation
+# A Comparison between Quantum and Classical Methods of Portfolio Optimisation
 
 a small prototype that downloads market data and runs both of these methods side by side:
 
@@ -39,6 +39,12 @@ run a similar algorithm on IBM's quantum computer simulator for larger
 assets, as when attempted here, the graph tends to crash , generate
 a different image each time.
 
+
+this project isnt aimed to demonstrate a quantum advantage, if anything,
+demonstrates there is a long way to progress for quantum ML . one could
+run a similar algorithm on IBM's quantum computer simulator for larger
+assets, as when attempted here, the graph tends to crash , generate
+a different image each time.
 
 
 
