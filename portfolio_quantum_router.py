@@ -200,14 +200,14 @@ def benchmark(returns, covariance):
 
 
 def main():
-    # assets used for the observed comparison run
+    # assets used for the observed comparison runs
     tickers = [
         "AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "JPM",
         "META", "TSLA", "AVGO", "V", "MA", "UNH",
     ]
     returns, covariance = load_market_data(tickers)
 
-    # compare the exact classical result vs the quantum opt. result
+    # compare the exact classical result vs the quantum opt. results
     print("Running both methods side by side: classical exhaustive search and QAOA simulation.")
     benchmark(returns, covariance)
     classical_portfolio, classical_score = brute_force(returns, covariance)
