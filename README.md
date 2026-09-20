@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# QNN
-=======
 # Quantum Portfolio Comparison
 
 a small prototype that downloads market data and runs both of these methods side by side:
@@ -36,4 +33,3 @@ a clear visual aid of how the run time compares to one another.
 
 
 
->>>>>>> 4b353df (hi)
