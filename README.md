@@ -8,7 +8,7 @@ a small prototype that downloads market data and runs both of these methods side
 the objective is to maximise the equation $C(x)=\mu^Tx-\lambda x^T\Sigma x$, where each binary variable
 selects an asset. the classical result is the exact benchmark for the same
 objective. the script measures runtime and compares the resulting portfolios and
-scores visually, and we can visually analyse the modern day comparison of quantum                     
+scores visually, and we can visually analyse a modern day simplified comparison between quantum                     
 and classical methods for portfolio analysis.
 
 ## Run
